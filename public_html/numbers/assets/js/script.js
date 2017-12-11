@@ -15,7 +15,7 @@ function validateInput(){
     inputField.value = "";
     console.log("Must be a number");
   }else{
-    compareNumbers(userInput, randomNumber)
+    compareNumbers(userInput, randomNumber)vik
   }
 }
 
